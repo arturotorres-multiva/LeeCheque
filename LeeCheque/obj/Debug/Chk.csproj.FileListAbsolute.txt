@@ -1,0 +1,9 @@
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\TestLeeCheque\bin\Debug\Chk.exe.config
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\TestLeeCheque\obj\Debug\Chk.exe
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\TestLeeCheque\obj\Debug\Chk.pdb
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\LeeCheque\bin\Debug\Chk.exe.config
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\LeeCheque\obj\Debug\Chk.exe
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\LeeCheque\LeeCheque\obj\Debug\Chk.pdb
+C:\GIT\LeeCheque\LeeCheque\bin\Debug\Chk.exe.config
+C:\GIT\LeeCheque\LeeCheque\obj\Debug\Chk.exe
+C:\GIT\LeeCheque\LeeCheque\obj\Debug\Chk.pdb

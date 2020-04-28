@@ -1,0 +1,12 @@
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\TestLeeCheque.exe.config
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\TestLeeCheque.exe
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\TestLeeCheque.pdb
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\obj\Debug\TestLeeCheque.csprojResolveAssemblyReference.cache
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\obj\Debug\TestLeeCheque.exe
+c:\users\arturo.torres.ex\documents\visual studio 2012\Projects\TestLeeCheque\TestLeeCheque\obj\Debug\TestLeeCheque.pdb
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\Symetry.Multiva.Api.dll
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\SymetryRemoteLS100.dll
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\UaURemoto.dll
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\Symetry.Cts.LSApi.dll
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arturo.torres.ex\Documents\Visual Studio 2012\Projects\TestLeeCheque\TestLeeCheque\bin\Debug\Newtonsoft.Json.xml
