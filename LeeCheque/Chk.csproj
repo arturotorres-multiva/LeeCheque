@@ -36,8 +36,9 @@
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Symetry.Multiva.Api">
-      <HintPath>..\..\..\..\..\..\..\DLLs\Symetry.Multiva.Api.dll</HintPath>
+    <Reference Include="Symetry.Multiva.Api, Version=5.0.0.6, Culture=neutral, PublicKeyToken=78860f27f3b8b40b, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Symetry.Multiva.Api.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
